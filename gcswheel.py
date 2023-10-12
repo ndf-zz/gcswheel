@@ -9,7 +9,6 @@
 
 """
 from math import log, pi
-import gi
 import cairo
 
 # Assume 2090mm rollout for 700x20c wheel+tyre
